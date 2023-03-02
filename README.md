@@ -518,4 +518,4 @@ Function Prototypes
 
 
 
-* __Rasheedat Olufunke Yusuf__ <[Rasheedat71](https://github.com/Rasheedat71)>
+* __Richard James Odinakachukwu__ <[Ricardoblinks](https://github.com/Ricardoblinks)>
